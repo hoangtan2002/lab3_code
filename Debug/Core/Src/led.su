@@ -1,0 +1,9 @@
+led.c:10:6:turn_LED1_on	64	static
+led.c:22:6:turn_LED2_on	64	static
+led.c:34:6:turnREDoff	8	static
+led.c:39:6:turnYELLOWoff	8	static
+led.c:44:6:turnGREENoff	8	static
+led.c:49:6:toggleGREEN	8	static
+led.c:54:6:toggleYELLOW	8	static
+led.c:59:6:blinkLED	16	static
+led.c:79:6:init_LED_array	8	static

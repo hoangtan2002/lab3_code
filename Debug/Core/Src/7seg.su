@@ -1,0 +1,10 @@
+7seg.c:15:6:update7SEG	16	static
+7seg.c:43:6:selectSEG	88	static
+7seg.c:56:6:display7SEG	296	static
+7seg.c:78:6:updateClock1	16	static
+7seg.c:84:6:updateClock2	16	static
+7seg.c:89:6:segLEDScan	8	static
+7seg.c:99:6:setCountDown1	16	static
+7seg.c:103:6:setCountDown2	16	static
+7seg.c:107:6:countDown1	8	static
+7seg.c:122:6:disableCountDown	4	static

@@ -1,0 +1,2 @@
+fsm_manual.c:10:6:fsm_manual_state2	8	static
+fsm_manual.c:30:6:fsm_manual_state3	8	static
